@@ -1,0 +1,17 @@
+.a {
+    color: gold;
+    position: sticky;
+}
+body {
+    background-color: gray;
+    padding: auto;
+    border: 5px;
+    margin: auto, color=white;
+}
+button {
+    background-color: gold;
+    padding: 10px 20px;
+    transition: 0.3s;
+    border-radius: 30px;
+
+}
